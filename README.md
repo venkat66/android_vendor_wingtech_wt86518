@@ -1,1 +1,2 @@
 # android_vendor_wingtech_wt86518
+# android_device_wingtech_wt86518
